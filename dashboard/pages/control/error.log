@@ -1,0 +1,18 @@
+[11-Nov-2024 08:56:27 UTC] Error in updatePembelian.php: Unknown column 'updated_at' in 'field list'
+[11-Nov-2024 09:04:24 UTC] Error in updatePembelian.php: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_pembelian = ?' at line 5
+[11-Nov-2024 09:05:55 UTC] Error in updatePembelian.php: Data pembelian tidak ditemukan atau tidak ada perubahan
+[11-Nov-2024 09:24:28 UTC] Error in updatePembelian.php: Tidak ada perubahan data. Data baru sama dengan data sebelumnya
+[11-Nov-2024 09:26:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php:91
+Stack trace:
+#0 C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php(91): mysqli_stmt->bind_param('idii', 1, 6000.0, 30, 1)
+#1 {main}
+  thrown in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 91
+[11-Nov-2024 09:27:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php:91
+Stack trace:
+#0 C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php(91): mysqli_stmt->bind_param('idii', 1, 6000.0, 30, 1)
+#1 {main}
+  thrown in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 91
+[11-Nov-2024 09:43:10 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 47
+[11-Nov-2024 09:48:34 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 47
+[11-Nov-2024 09:48:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 47
+[11-Nov-2024 09:49:33 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\laragon\www\UTS\dashboard\pages\control\updatePembelian.php on line 47

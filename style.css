@@ -1,0 +1,59 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+
+input::placeholder{
+    font-size:medium ;
+}
+
+.signUpButton {
+    color: white!important;;
+    background-color: #3b5998!important; 
+    transition: background-color 0.3s ease, color 0.3s ease!important; 
+  }
+  
+.signUpButton:hover {
+    background-color: #2d4373!important; 
+    color: white!important; 
+    cursor: pointer!important; 
+}
+
+/* Sidebar */
+/* Styling sidebar */
+#sidebar {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    background: #343a40;
+    color: #fff;
+    transition: left 0.3s ease;
+    z-index: 1000;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    color: #ffffff;
+}
+
+#sidebar ul li a:hover {
+    color: #7386d5;
+    background: #ffffff;
+}
+
+/* When sidebar is active */
+#sidebar.active {
+    left: 0;
+}
+

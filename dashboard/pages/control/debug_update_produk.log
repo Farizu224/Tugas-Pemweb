@@ -1,0 +1,168 @@
+2024-11-13 16:08:21 - Input:
+id_produk: 1
+nama: 1
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:08:21 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:08:35 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:08:35 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:09:10 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:09:10 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:10:29 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:10:29 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:10:34 - Input:
+id_produk: 1
+nama: 6
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:10:35 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:12:27 - Input:
+id_produk: 1
+nama: 5
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:12:27 - Response:
+Array
+(
+    [status] => success
+    [message] => Data berhasil diupdate!
+)
+
+
+2024-11-13 16:17:47 - Input:
+id_produk: 1
+nama: 1
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:22:14 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 3
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:25:11 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 3
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:40:39 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:40:52 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:41:00 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:45:48 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:46:24 - Input:
+id_produk: 1
+nama: 7
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
+2024-11-13 16:46:42 - Input:
+id_produk: 1
+nama: 1
+id_kategori: 1
+harga_beli: 84
+harga_jual: 1000
+stock: 20
+
